@@ -1,13 +1,13 @@
 # Students Performance Data Analysis
 
 This mini-project analyzes student performance using Python, Pandas, and Matplotlib.  
-It explores the relationships between  Study time, gender, and parental education.
+It explores the relationships between  Study time, gender.
 
 ## Dataset
 The project uses the `Student_data.csv` dataset which includes:
 - Study time, Travel time, and Freetime
 - Gender of students
-- Parental level of education
+
 
 ## Features
 - Data cleaning and summary statistics
